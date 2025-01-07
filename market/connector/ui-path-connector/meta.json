@@ -24,7 +24,7 @@
             "key" : "ui-path-connector",
             "name" : "UiPath Demo App",
             "groupId" : "com.axonivy.connector.uipath",
-            "artifactId" : "ui-path-connectordemo-app",
+            "artifactId" : "ui-path-connector-demo-app",
             "type" : "zip"
         }
     ]
