@@ -24,7 +24,7 @@
             "key" : "a-trust",
             "name" : "A-Trust Demo App",
             "groupId" : "com.axonivy.connector.atrust",
-            "artifactId" : "a-trustdemo-app",
+            "artifactId" : "a-trust-demo-app",
             "type" : "zip"
         }
     ]
