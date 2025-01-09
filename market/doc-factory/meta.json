@@ -29,7 +29,7 @@
         {
             "key" : "doc-factory",
             "name" : "DocFactory Demo App",
-            "groupId" : "com.axonivy.utils.docfactory",
+            "groupId" : "doc-factory-modules",
             "artifactId" : "doc-factory-demo-app",
             "type" : "zip"
         }
